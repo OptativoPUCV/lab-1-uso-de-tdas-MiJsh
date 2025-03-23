@@ -43,3 +43,9 @@ exercises.c:80:15: error: comparison between pointer and integer [-Werror]
 cc1.exe: all warnings being treated as errors
 Compilation failed
 9d59b16
+Sun, Mar 23, 2025 12:22:04 PM: 
+ exercises.c | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+ tests:  3|2
+total_score: 40/70
+547c71a
